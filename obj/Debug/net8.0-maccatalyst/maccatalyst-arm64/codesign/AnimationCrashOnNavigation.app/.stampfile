@@ -1,1 +1,0 @@
--v --force --timestamp=none --sign - --entitlements /Users/patrick.dallat/Projects/AnimationCrashOnNavigation/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/patrick.dallat/Projects/AnimationCrashOnNavigation/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/AnimationCrashOnNavigation.app
